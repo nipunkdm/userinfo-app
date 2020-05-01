@@ -1,0 +1,8 @@
+.user-container{
+    display: flex;
+}
+.user-content{
+    width: 70%;
+    margin-left: 20px;
+    background-color: cadetblue;
+}
